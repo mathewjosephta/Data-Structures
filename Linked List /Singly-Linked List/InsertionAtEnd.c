@@ -58,3 +58,12 @@ int main() {
 
     return 0;
 }
+
+//SAMPLE OUTPUT
+/*
+How many numbers do you want to insert? 3
+Enter value for node 1: 5
+Enter value for node 2: 10
+Enter value for node 3: 15
+The linked list is: 5 -> 10 -> 15 -> NULL
+*/
